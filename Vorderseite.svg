@@ -282,12 +282,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.0149341"
-     inkscape:cx="247.25354"
+     inkscape:cx="188.19454"
      inkscape:cy="188.2873"
      inkscape:window-x="1278"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g160"
      inkscape:document-units="mm"
      units="mm"><sodipodi:guide
        orientation="1,0"
@@ -335,8 +335,7 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.25,0,0,-1.25,0,372.04993)"
-     sodipodi:insensitive="true"><path
+     transform="matrix(1.25,0,0,-1.25,0,372.04993)"><path
        d="m -2.8346457,-2.8346919 0,303.3070819 426.6141757,0 0,-303.3070819 z"
        style="fill:url(#linearGradient4289);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path34"
@@ -404,14 +403,14 @@
    id="tspan3142">unter goettingen.freifunk.net</tspan></tspan></text>
 <text
          y="-4.5627894"
-         x="38.893806"
+         x="70.835617"
          id="text166"
          transform="scale(0.92391538,-1.0823502)"
-         style="font-size:11.08698463px"><tspan
+         style="font-size:11.08698463px;text-align:start;text-anchor:start"><tspan
            id="tspan168"
            sodipodi:role="line"
-           style="font-size:8.8695879px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
-           x="38.893806"
+           style="font-size:8.8695879px;font-variant:normal;font-weight:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+           x="70.835617"
            y="-4.5627894">Jeden Donnerstag Abend ab 20:00 Uhr im Noklab, Neustadt 7, 37073 Göttingen </tspan></text>
 </g><g
        transform="matrix(0.1,0,0,0.1,0,4.8)"
@@ -691,11 +690,11 @@
        transform="matrix(0.77728653,0,0,0.77728653,9.6117791,23.213692)"
        d="M 103,44 C 103,60.016258 90.016258,73 74,73 57.983742,73 45,60.016258 45,44 45,27.983742 57.983742,15 74,15 c 16.016258,0 29,12.983742 29,29 z" /><polygon
        id="polygon10-0-6-3"
-       points="22,52 30,52 26,56 31,56 37,50 31,44 26,44 30,48 22,48 "
+       points="26,56 31,56 37,50 31,44 26,44 30,48 22,48 22,52 30,52 "
        style="fill:#ffb400;fill-opacity:1;display:inline"
        transform="matrix(0.77728653,0,0,0.77728653,9.6117791,23.213692)" /><polygon
        id="polygon12-0-7-5"
-       points="73,59 81,59 75,53 88,53 88,47 75,47 81,41 73,41 64,50 "
+       points="75,53 88,53 88,47 75,47 81,41 73,41 64,50 73,59 81,59 "
        style="fill:#ffb400;fill-opacity:1;display:inline"
        transform="matrix(0.77728653,0,0,0.77728653,9.6117791,23.213692)" /><circle
        sodipodi:ry="22"
