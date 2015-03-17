@@ -282,7 +282,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.0149341"
-     inkscape:cx="188.19454"
+     inkscape:cx="258.69546"
      inkscape:cy="188.2873"
      inkscape:window-x="1278"
      inkscape:window-y="-3"
@@ -389,17 +389,17 @@
        transform="translate(-0.2628489,6.4)"
        id="g160"><text
          y="-20.9"
-         x="30.989504"
+         x="34.816185"
          id="text162"
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
-         style="line-height:125%"><tspan
+         style="font-size:23.2px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Oswald;-inkscape-font-specification:Oswald Bold"><tspan
            id="tspan164"
            sodipodi:role="line"
            y="-20.9"
-           x="30.989504 49.058804 61.052902 72.646004 85.164101 90.418983 108.52248 115.3675 123.77179"
-           style="font-size:24.79999924px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald Bold">Mach mit <tspan
-   style="letter-spacing:-0.016px"
+           x="34.816185 52.885532 64.879639 76.47271 88.990807 94.245689 112.34913 119.19421 127.59853"
+           style="font-size:23.2px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald Bold">Mach mit <tspan
+   style="font-size:23.2px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.01600000000000000px;writing-mode:lr;text-anchor:start;font-family:Oswald;-inkscape-font-specification:Oswald Bold"
    id="tspan3142">unter goettingen.freifunk.net</tspan></tspan></text>
 <text
          y="-4.5627894"
