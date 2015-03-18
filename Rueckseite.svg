@@ -16,13 +16,13 @@
    width="526.17499"
    height="372.04999"
    xml:space="preserve"
-   sodipodi:docname="Rueckseite.svg.2015_03_18_20_05_54.0.svg"
+   sodipodi:docname="Rueckseite.svg"
    inkscape:export-filename="/Users/iwo/Downloads/pr.git/Postkarte/Rueckseite_600dpi.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"><metadata
      id="metadata3306"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3304"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3316"><path
@@ -226,12 +226,12 @@
      id="namedview3302"
      showgrid="false"
      inkscape:zoom="1.7417014"
-     inkscape:cx="285.19233"
-     inkscape:cy="164.74264"
+     inkscape:cx="171.51039"
+     inkscape:cy="210.67474"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4458"
+     inkscape:current-layer="layer6"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:document-units="mm"
@@ -274,7 +274,8 @@
        id="guide4369" /></sodipodi:namedview><g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="hg"><rect
+     inkscape:label="hg"
+     style="display:inline"><rect
        style="fill:url(#linearGradient4007);fill-opacity:1;stroke:none"
        id="rect5858"
        width="540.35431"
@@ -283,7 +284,7 @@
        y="-7.0838623" /><flowRoot
        xml:space="preserve"
        id="flowRoot3446"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Swiss911 XCm BT;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Swiss911 XCm BT Condensed;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:tb"><flowRegion
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Swiss911 XCm BT;-inkscape-font-specification:Swiss911 XCm BT Condensed"><flowRegion
          id="flowRegion3448"><rect
            id="rect3450"
            width="266.40616"
@@ -295,17 +296,6 @@
      id="layer5"
      inkscape:label="EbeneÜ"
      style="opacity:0.53783784"><circle
-       sodipodi:ry="27.5"
-       sodipodi:rx="27.5"
-       sodipodi:cy="44"
-       sodipodi:cx="74"
-       id="circle4754-7"
-       r="27.5"
-       cy="44"
-       cx="74"
-       style="fill:none;stroke:#130067;stroke-width:0.64097238000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       transform="matrix(-1.6666992,-2.6118204,2.6118204,-1.6666992,312.89225,475.52108)"
-       d="M 101.5,44 C 101.5,59.187831 89.187831,71.5 74,71.5 58.812169,71.5 46.5,59.187831 46.5,44 46.5,28.812169 58.812169,16.5 74,16.5 c 15.187831,0 27.5,12.312169 27.5,27.5 z" /><circle
        sodipodi:ry="22"
        sodipodi:rx="22"
        sodipodi:cy="54"
@@ -314,7 +304,7 @@
        r="22"
        cy="54"
        cx="36"
-       style="fill:none;stroke:#dc0067;stroke-width:1px;display:inline"
+       style="fill:none;stroke:#dc0067;stroke-width:1px;display:inline;stroke-opacity:0.71031743"
        transform="matrix(3.1560224,0,0,3.1560224,70.930931,70.046672)"
        d="M 58,54 C 58,66.150264 48.150264,76 36,76 23.849736,76 14,66.150264 14,54 14,41.849736 23.849736,32 36,32 c 12.150264,0 22,9.849736 22,22 z" /><circle
        sodipodi:ry="22"
@@ -325,7 +315,7 @@
        r="22"
        cy="44"
        cx="74"
-       style="fill:none;stroke:#dc0067;stroke-width:1px;display:inline"
+       style="fill:none;stroke:#dc0067;stroke-width:1px;display:inline;stroke-opacity:0.71031743"
        transform="matrix(3.1560224,0,0,3.1560224,70.930931,70.046672)"
        d="M 96,44 C 96,56.150264 86.150264,66 74,66 61.849736,66 52,56.150264 52,44 52,31.849736 61.849736,22 74,22 c 12.150264,0 22,9.849736 22,22 z" /><circle
        sodipodi:ry="29"
@@ -336,7 +326,7 @@
        r="29"
        cy="44"
        cx="74"
-       style="fill:none;stroke:#dc0067;stroke-width:6.00012302000000020;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#dc0067;stroke-width:6.00012302000000020;stroke-miterlimit:4;stroke-dasharray:none;display:inline;stroke-opacity:0.71031743"
        transform="matrix(3.1560224,0,0,3.1560224,70.930931,70.046672)"
        d="M 103,44 C 103,60.016258 90.016258,73 74,73 57.983742,73 45,60.016258 45,44 45,27.983742 57.983742,15 74,15 c 16.016258,0 29,12.983742 29,29 z" /><polygon
        id="polygon10-0-6-3-1"
@@ -355,7 +345,7 @@
        r="22"
        cy="54"
        cx="36"
-       style="fill:none;stroke:#dc0067;stroke-width:0.99995655000000006;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#dc0067;stroke-width:0.99995655000000006;stroke-miterlimit:4;stroke-dasharray:none;display:inline;stroke-opacity:0.71031743"
        transform="matrix(3.1560224,0,0,3.1560224,58.881951,-62.676804)"
        d="M 58,54 C 58,66.150264 48.150264,76 36,76 23.849736,76 14,66.150264 14,54 14,41.849736 23.849736,32 36,32 c 12.150264,0 22,9.849736 22,22 z" /><path
        inkscape:connector-curvature="0"
@@ -366,7 +356,7 @@
      inkscape:groupmode="layer"
      inkscape:label="ink_ext_XXXXXX"
      transform="matrix(1.25,0,0,-1.25,0,372.04993)"
-     style="opacity:1"><g
+     style="display:inline"><g
        id="g4458"
        transform="translate(-11.2,11.2)"><path
          d="m 35.6102,246.355 75.0988,0 0,2 -75.0988,0 0,-2 z"
@@ -580,11 +570,10 @@
        y="409.60629"
        x="11.338536"
        id="text3494-8"
-       transform="matrix(0,1,1,0,0,0)"
-       sodipodi:linespacing="125%"><tspan
+       transform="matrix(0,1,1,0,0,0)"><tspan
          y="409.60629"
          x="11.338536"
          sodipodi:role="line"
-         style="font-size:6.4px;font-variant:normal;font-weight:normal;writing-mode:lr;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%"
+         style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="tspan4524-4">V.i.S.d.P: Hans-Werner Hilse, Von-Bar-Str. 25B, 37075 Göttingen</tspan></text>
 </g></svg>
