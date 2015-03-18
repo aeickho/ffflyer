@@ -225,13 +225,13 @@
      inkscape:window-height="1003"
      id="namedview3302"
      showgrid="false"
-     inkscape:zoom="1.7417014"
-     inkscape:cx="269.1161"
-     inkscape:cy="194.88558"
+     inkscape:zoom="7.6788795"
+     inkscape:cx="87.744966"
+     inkscape:cy="26.073812"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4458"
+     inkscape:current-layer="g4485"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:document-units="mm"
@@ -359,7 +359,7 @@
      style="display:inline"><g
        id="g4458"
        transform="translate(-11.2,11.2)"><path
-         d="m 35.6102,246.355 75.0988,0 0,2 -75.0988,0 0,-2 z"
+         d="m 35.6102,246.355 72.04721,0 0,2 -72.04721,0 0,-2 z"
          style="fill:#a41557;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path3446"
          inkscape:connector-curvature="0" /><text
@@ -390,7 +390,7 @@
 </g><g
        id="g4466"
        transform="translate(-11.2,9.6)"><path
-         d="m 35.6102,196.556 126.057,0 0,1.99961 -126.057,0 0,-1.99961 z"
+         d="m 35.6102,196.556 107.02827,0 0,1.99961 -107.02827,0 0,-1.99961 z"
          style="fill:#a41557;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path3448"
          inkscape:connector-curvature="0" /><text
@@ -431,7 +431,7 @@
 </g><g
        id="g4476"
        transform="translate(-11.2,8)"><path
-         d="m 35.6102,135.956 327.55133,0 0,2 -327.55133,0 0,-2 z"
+         d="m 35.6102,135.956 315.41649,0 0,2 -315.41649,0 0,-2 z"
          style="fill:#a41557;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path3450"
          inkscape:connector-curvature="0" /><text
@@ -479,7 +479,7 @@
 </g><g
        id="g4485"
        transform="translate(-11.2,6.4)"><path
-         d="m 35.6102,75.3559 237.294,0 0,2 -237.294,0 0,-2 z"
+         d="m 35.6102,75.3559 227.3749,0 0,2 -227.3749,0 0,-2 z"
          style="fill:#a41557;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path3452"
          inkscape:connector-curvature="0" /><text
